@@ -1,5 +1,6 @@
 
-# API Tech Challenge
+# Wine Data API (Embrapa Data Pipeline)!
+
 
 API com dados da produção vitivinícola brasileira, baseada em scraping da Embrapa. Foi desenvolvida para facilitar o consumo de informações por dashboards, modelos de machine learning ou aplicações front-end.
 
@@ -117,10 +118,3 @@ pytest
 - `.gitignore` bem configurado
 - Comentários e commits claros
 
-## 🕊️ Observação final
-
-Este projeto foi revisado utilizando inteligência artificial, mas implementado manualmente de forma autêntica com o mínimo de assistência automática, visando manter um código mais humano e original.
-
----
-
-Matheus Pedroso - RM360903
